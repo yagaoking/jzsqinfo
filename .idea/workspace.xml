@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b729bbe-93e6-4e67-bf44-0888d5fe02de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X3i1wpsrdT3WGTMDddBiHLRGZj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\pyspace\myBlog1\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="myBlog1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="myBlog1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b729bbe-93e6-4e67-bf44-0888d5fe02de" name="Default Changelist" comment="" />
+      <created>1580280967626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580280967626</updated>
+      <workItem from="1580280969612" duration="92000" />
+      <workItem from="1580281070424" duration="190000" />
+      <workItem from="1580355417632" duration="599000" />
+      <workItem from="1580372605880" duration="1383000" />
+      <workItem from="1580443708047" duration="6562000" />
+      <workItem from="1580462758801" duration="2008000" />
+      <workItem from="1580621491046" duration="4789000" />
+      <workItem from="1581060639015" duration="4303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580281023285">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580281023285" />
+    <state x="2560" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580281053937">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2560" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580281053937" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1580281109619">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1580281109619" />
+    <state x="2575" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1581060641832">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2575" y="350" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1581060641832" />
+  </component>
+</project>
