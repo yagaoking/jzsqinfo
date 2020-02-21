@@ -6,7 +6,7 @@ register = template.Library()
 # 最新文章标签
 
 
-@register.inclusion_tag('blog/inclusions/_recent_posts.html',takes_context=True)
+@register.inclusion_tag('blog/inclusions/_recent_posts.html', takes_context=True)
 def show_recent_posts(context, num=5):
     return {
         'recent_post_list': Post.objects.all().order_by('-create_time')[:num],
