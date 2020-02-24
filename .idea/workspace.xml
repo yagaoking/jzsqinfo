@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b729bbe-93e6-4e67-bf44-0888d5fe02de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/myBlog1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myBlog1.iml" afterDir="false" />
+    <list default="true" id="7b729bbe-93e6-4e67-bf44-0888d5fe02de" name="Default Changelist" comment="build comments models">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/comments/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +102,31 @@
       <workItem from="1581060639015" duration="4303000" />
       <workItem from="1581915277736" duration="1206000" />
       <workItem from="1581916724067" duration="4622000" />
+      <workItem from="1582249608440" duration="7004000" />
+      <workItem from="1582517367699" duration="5746000" />
     </task>
+    <task id="LOCAL-00001" summary="model tag(finished)">
+      <created>1582264556290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582264556290</updated>
+    </task>
+    <task id="LOCAL-00002" summary="archive, category, tag detail page">
+      <created>1582520208362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582520208363</updated>
+    </task>
+    <task id="LOCAL-00003" summary="archive, category, tag detail page">
+      <created>1582522009884</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582522009884</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +219,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="model tag(finished)" />
+    <MESSAGE value="archive, category, tag detail page" />
+    <MESSAGE value="build comments models" />
+    <option name="LAST_COMMIT_MESSAGE" value="build comments models" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580281023285">
